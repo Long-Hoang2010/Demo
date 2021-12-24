@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.linkneverdie.net	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	4mgh3u04i4422ajsxghqatdw
+www.linkneverdie.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
